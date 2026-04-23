@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-blue?style=for-the-badge" alt="Role">
   <img src="https://img.shields.io/badge/CEO-MB_Infinity_Digital-black?style=for-the-badge" alt="Company">
-  <img src="https://img.shields.io/badge/Location-Salvador,_BA-red?style=for-the-badge" alt="Location">
+  <img src="https://img.shields.io/badge/Tech-Multi_Stack-orange?style=for-the-badge" alt="Tech">
 </p>
 
 ---
@@ -13,28 +13,29 @@ Sou um desenvolvedor apaixonado por tecnologia, conectando o mundo do desenvolvi
 
 - 🎓 Cursando **Sistemas de Informação**.
 - 🛠️ Especialista em construir pontes entre o **código e a infraestrutura física**.
-  
+- 🌊 Nas horas vagas? Me encontre surfando nas praias de Salvador ou no futevôlei.
 
 ---
 
 ### 💻 Tech Stack & Skills
 
-**Frontend & Design**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+**Web & Mobile (Modern Stack)**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-**Backend & Infrastructure**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Enterprise & Backend (Powerful Languages)**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Infrastructure & Networking**
 ![MikroTik](https://img.shields.io/badge/MikroTik-EE2329?style=flat-square&logo=mikrotik&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-
-**Tools & Workflow**
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
