@@ -13,7 +13,7 @@ Sou um desenvolvedor apaixonado por tecnologia, conectando o mundo do desenvolvi
 
 - 🎓 Cursando **Sistemas de Informação**.
 - 🛠️ Especialista em construir pontes entre o **código e a infraestrutura física**.
-- 🌊 Nas horas vagas? Me encontre surfando nas praias de Salvador ou no futevôlei.
+
 
 ---
 
